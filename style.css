@@ -1,0 +1,11 @@
+section h1 {
+  background-color: rgb(123, 161, 233);
+}
+
+header {
+  text-align: center;
+}
+
+header h1:hover {
+  color: darksalmon;
+}
